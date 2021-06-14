@@ -1,0 +1,7 @@
+flask
+websockets
+aiohttp
+asyncio
+hmac
+hashlib
+requests
